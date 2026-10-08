@@ -1,6 +1,6 @@
 # Decision Matrix Tool
 
-A React-based web application that helps users make informed decisions by evaluating multiple options against weighted criteria.
+A React-based web application that helps users make informed decisions by evaluating multiple options against weighted criteria.This is my first change.
 
 ## Features
 
